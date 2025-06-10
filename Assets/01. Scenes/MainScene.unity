@@ -2331,7 +2331,9 @@ PrefabInstance:
       value: Piedras1 (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
+    - {fileID: -8700617353114198275, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
@@ -3475,7 +3477,9 @@ PrefabInstance:
       value: Piedras1 (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
+    - {fileID: -8700617353114198275, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
@@ -3879,7 +3883,9 @@ PrefabInstance:
       value: Piedras1 (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
+    - {fileID: -8700617353114198275, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
@@ -4145,7 +4151,9 @@ PrefabInstance:
       value: Piedras2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: 70b3ef47d6998a54c8194eaa88dabf81, type: 3}
+    - {fileID: -8700617353114198275, guid: 70b3ef47d6998a54c8194eaa88dabf81, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 70b3ef47d6998a54c8194eaa88dabf81, type: 3}
@@ -4259,7 +4267,9 @@ PrefabInstance:
       value: Piedras1 (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
+    - {fileID: -8700617353114198275, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
@@ -4996,7 +5006,9 @@ PrefabInstance:
       value: Piedras1 (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
+    - {fileID: -8700617353114198275, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
@@ -5385,7 +5397,9 @@ PrefabInstance:
       value: Piedras1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
+    - {fileID: -8700617353114198275, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
@@ -6780,7 +6794,9 @@ PrefabInstance:
       value: templo_roto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: 84eb4c0fdc9bdb74f9bc74aa48630f6a, type: 3}
+    - {fileID: -8700617353114198275, guid: 84eb4c0fdc9bdb74f9bc74aa48630f6a, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 84eb4c0fdc9bdb74f9bc74aa48630f6a, type: 3}
       insertIndex: -1
@@ -7408,7 +7424,7 @@ Transform:
   m_GameObject: {fileID: 1951443873}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -2.42, z: 0}
+  m_LocalPosition: {x: 0, y: -0.27, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8610,7 +8626,9 @@ PrefabInstance:
       value: Piedras1 (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
+    - {fileID: -8700617353114198275, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0fa96664b194fd428426425d666a0cf, type: 3}
