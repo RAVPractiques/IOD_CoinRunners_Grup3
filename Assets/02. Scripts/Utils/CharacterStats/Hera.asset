@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ec4e9f629270a9b4e95ea83488d0b8c7, type: 3}
-  m_Name: Hades
+  m_Name: Hera
   m_EditorClassIdentifier: 
-  maxHealth: 1
-  damage: 5
-  knockback: 3
-  moveSpeed: 1
+  maxHealth: 3
+  damage: 1
+  knockback: 5
+  moveSpeed: 2
   weaponPrefab: {fileID: 631331218016696216, guid: 069c55d2f0eea414c9feb3c4d725b6f2, type: 3}

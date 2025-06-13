@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2983609653737416636}
   - component: {fileID: 8956843963959658450}
+  - component: {fileID: 3459332161138830028}
   m_Layer: 0
   m_Name: Hades
   m_TagString: Untagged
@@ -54,6 +55,23 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &3459332161138830028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100714622857008669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce1080c537d4d5643897abd5c3a66c4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  statsData: {fileID: 11400000, guid: db3b2d954ebbe4b4c87836ba690fd538, type: 2}
+  healthMultiplier: 1
+  damageMultiplier: 1
+  knockbackMultiplier: 1
+  moveSpeedMultiplier: 1
 --- !u!1001 &4584404139839765856
 PrefabInstance:
   m_ObjectHideFlags: 0
