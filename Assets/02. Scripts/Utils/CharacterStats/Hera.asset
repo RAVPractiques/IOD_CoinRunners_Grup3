@@ -16,4 +16,4 @@ MonoBehaviour:
   damage: 1
   knockback: 5
   moveSpeed: 2
-  weaponPrefab: {fileID: 1724788499636299932, guid: 6830e4e0a3483ca41a77da5bcaab2979, type: 3}
+  weaponPrefab: {fileID: 631331218016696216, guid: ea245902178372644b30bd946bd9bcb5, type: 3}
