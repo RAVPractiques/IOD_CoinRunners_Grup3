@@ -367,9 +367,9 @@ MonoBehaviour:
   - {fileID: 2070380558}
   _characterPrefabs:
   - {fileID: 1183175009315827291, guid: 6aff54d07ef85ca409830252013a5928, type: 3}
-  - {fileID: 100714622857008669, guid: 00d4b2be5355c254e8a2d4957d4485d9, type: 3}
   - {fileID: 411345682095692738, guid: 8e09b569e6606424ca3c6cc7140f2bd5, type: 3}
   - {fileID: 1369879477348655805, guid: dfca614f2a6dbe3458ca8b40e5e46d40, type: 3}
+  - {fileID: 100714622857008669, guid: 00d4b2be5355c254e8a2d4957d4485d9, type: 3}
 --- !u!4 &12176699
 Transform:
   m_ObjectHideFlags: 0
@@ -387,6 +387,7 @@ Transform:
   - {fileID: 1596697329}
   - {fileID: 363690709}
   - {fileID: 2070380558}
+  - {fileID: 1325672341}
   m_Father: {fileID: 707421509}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &22596240
@@ -3260,7 +3261,6 @@ Transform:
   m_Children:
   - {fileID: 1951443874}
   - {fileID: 12176699}
-  - {fileID: 1325672341}
   - {fileID: 307048723}
   - {fileID: 625137312}
   m_Father: {fileID: 0}
@@ -5453,6 +5453,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5672526750514784040, guid: 53864055fbb9e984fb30a8e2f48dfad9, type: 3}
+      propertyPath: innerRadius
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 5672526750514784040, guid: 53864055fbb9e984fb30a8e2f48dfad9, type: 3}
+      propertyPath: outerRadius
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5672526750514784040, guid: 53864055fbb9e984fb30a8e2f48dfad9, type: 3}
+      propertyPath: minInnerRadius
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7710810904206133198, guid: 53864055fbb9e984fb30a8e2f48dfad9, type: 3}
       propertyPath: m_Name
       value: Storm
@@ -5551,7 +5563,7 @@ Transform:
   - {fileID: 2077103942}
   - {fileID: 1807362158}
   - {fileID: 79331207}
-  m_Father: {fileID: 707421509}
+  m_Father: {fileID: 12176699}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1325672342
 MonoBehaviour:
