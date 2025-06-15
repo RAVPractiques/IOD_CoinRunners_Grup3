@@ -486,10 +486,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   statsData: {fileID: 11400000, guid: 09adecda002c1fc4a95fdb14ba4fb2db, type: 2}
-  healthMultiplier: 1
-  damageMultiplier: 1
+  healthMultiplier: 20
+  damageMultiplier: 10
   knockbackMultiplier: 1
-  moveSpeedMultiplier: 1
+  moveSpeedMultiplier: 10
 --- !u!1 &1516464465068291471
 GameObject:
   m_ObjectHideFlags: 0

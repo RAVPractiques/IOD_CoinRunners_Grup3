@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5239734572296487398}
+  - component: {fileID: 1612076460205748580}
   m_Layer: 0
   m_Name: Afrodita
   m_TagString: Untagged
@@ -32,6 +33,23 @@ Transform:
   - {fileID: 5963782492729419629}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!114 &1612076460205748580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1369879477348655805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce1080c537d4d5643897abd5c3a66c4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  statsData: {fileID: 11400000, guid: 05495b952034f0543b787966266bfaae, type: 2}
+  healthMultiplier: 20
+  damageMultiplier: 10
+  knockbackMultiplier: 1
+  moveSpeedMultiplier: 10
 --- !u!1001 &6145484849624498310
 PrefabInstance:
   m_ObjectHideFlags: 0

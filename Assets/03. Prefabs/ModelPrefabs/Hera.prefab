@@ -46,10 +46,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   statsData: {fileID: 11400000, guid: 013d7cfeccf0bd1419afc13635d427ea, type: 2}
-  healthMultiplier: 1
-  damageMultiplier: 1
+  healthMultiplier: 20
+  damageMultiplier: 10
   knockbackMultiplier: 1
-  moveSpeedMultiplier: 1
+  moveSpeedMultiplier: 10
 --- !u!1001 &5436683374306592262
 PrefabInstance:
   m_ObjectHideFlags: 0
