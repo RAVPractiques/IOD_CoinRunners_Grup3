@@ -49,7 +49,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 64871553f9d3fe74b8e4dd5b478f0d6f, type: 2}
+  m_Motion: {fileID: 7400000, guid: f0db14721527f374bbfe9a1544ce8912, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -86,7 +86,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HadesAnimator
+  m_Name: HadesAnimatorNew
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: Speed
@@ -148,7 +148,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 9efb15fe7b57ea948b04877cb01806c4, type: 2}
+  m_Motion: {fileID: 7400000, guid: f34ba76d970984b44914b0dc21970ae9, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -208,7 +208,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 9ccbf73718292e245b5ee6e3c442ae1b, type: 2}
+  m_Motion: {fileID: 7400000, guid: a437c8295d0c586488811736b2d21bf3, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -234,7 +234,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 6a74645b55fdf1948b380c3975a2a278, type: 2}
+  m_Motion: {fileID: 7400000, guid: 50e43b53e71c3e444a9f02a72e6895bf, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
