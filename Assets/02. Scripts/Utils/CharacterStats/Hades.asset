@@ -15,5 +15,5 @@ MonoBehaviour:
   maxHealth: 1
   damage: 5
   knockback: 3
-  moveSpeed: 4
+  moveSpeed: 5
   weaponPrefab: {fileID: 631331218016696216, guid: 069c55d2f0eea414c9feb3c4d725b6f2, type: 3}
